@@ -1,0 +1,25 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "Testing GIT Features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kelvince01/testing.git"
+  },
+  "keywords": [
+    "GIT"
+  ],
+  "author": "Kelvince Phillips",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kelvince01/testing/issues"
+  },
+  "homepage": "https://github.com/Kelvince01/testing#readme",
+  "dependencies": {
+    "prettier": "^3.2.5"
+  }
+}
